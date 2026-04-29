@@ -9,3 +9,5 @@ Step 3
 
 Step 4
 > npm run android
+
+The folder of the application is <b>note<b>
